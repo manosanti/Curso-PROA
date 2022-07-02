@@ -1,4 +1,3 @@
-
 function exer05(){
     let valor = parseInt(prompt("Digite um valor..."));
     let ant = valor - 1;
@@ -609,8 +608,6 @@ function exer41(){
         alert(`Conceito D`)
     }
 
-    
-    
 }
 
 function exer42(){
